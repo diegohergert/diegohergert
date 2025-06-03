@@ -1,9 +1,9 @@
 # diegohergert
 
 # Hi, I'm Diego
-### Computer Systems Engineering @UGA
+## Computer Systems Engineering @UGA
 
-current project: 
+## current project: 
 
 ## Featured Projects
 
