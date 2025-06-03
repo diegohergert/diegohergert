@@ -8,6 +8,6 @@ current project:
 ## Featured Projects
 
 ## GitHub Stats
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&t      heme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoherert&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohergert&layout=compact)
         
