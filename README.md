@@ -1,5 +1,4 @@
-# Hi, I'm Diego
-# Computer Systems Engineering @UGA
+# Hi, I'm Diego a Computer Systems Engineering student @UGA
 
 ## current project: 
 
