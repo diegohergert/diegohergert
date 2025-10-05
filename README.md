@@ -1,7 +1,7 @@
 # Hi, I'm Diego a Computer Systems Engineering student @UGA
 
 ## Current Project:
-Pantry inventory manager
+
 
 ## Featured Projects:
 
